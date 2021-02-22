@@ -1,0 +1,12 @@
+C:\Projects\ShopsRUs\ShopsRUs.Service\bin\Debug\netcoreapp3.1\ShopsRUs.Service.deps.json
+C:\Projects\ShopsRUs\ShopsRUs.Service\bin\Debug\netcoreapp3.1\ShopsRUs.Service.dll
+C:\Projects\ShopsRUs\ShopsRUs.Service\bin\Debug\netcoreapp3.1\ShopsRUs.Service.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Service\bin\Debug\netcoreapp3.1\ShopsRUs.Core.dll
+C:\Projects\ShopsRUs\ShopsRUs.Service\bin\Debug\netcoreapp3.1\ShopsRUs.Core.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.csprojAssemblyReference.cache
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.AssemblyInfoInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.AssemblyInfo.cs
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.csproj.CoreCompileInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.csproj.CopyComplete
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.dll
+C:\Projects\ShopsRUs\ShopsRUs.Service\obj\Debug\netcoreapp3.1\ShopsRUs.Service.pdb

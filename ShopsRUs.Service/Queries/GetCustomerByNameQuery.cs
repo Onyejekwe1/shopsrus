@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using MediatR;
+using ShopsRUs.Service.Response;
+
+namespace ShopsRUs.Service.Queries
+{
+    public class GetCustomerByNameQuery : IRequest<CustomerDto>
+    {
+        public GetCustomerByNameQuery(string name)
+        {
+            Name = name;
+        }
+        public string Name { get; set; }    
+    }
+}

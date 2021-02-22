@@ -1,0 +1,15 @@
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Data.deps.json
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Data.dll
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Data.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Core.dll
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Core.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.csprojAssemblyReference.cache
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.AssemblyInfoInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.AssemblyInfo.cs
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.csproj.CoreCompileInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.csproj.CopyComplete
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.dll
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Data.runtimeconfig.json
+C:\Projects\ShopsRUs\ShopsRUs.Data\bin\Debug\netcoreapp3.1\ShopsRUs.Data.runtimeconfig.dev.json
+C:\Projects\ShopsRUs\ShopsRUs.Data\obj\Debug\netcoreapp3.1\ShopsRUs.Data.genruntimeconfig.cache

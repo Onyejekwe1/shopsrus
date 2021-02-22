@@ -1,0 +1,14 @@
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Persistence.deps.json
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Persistence.dll
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Persistence.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Core.dll
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Data.dll
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Core.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\bin\Debug\netcoreapp3.1\ShopsRUs.Data.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.csprojAssemblyReference.cache
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.AssemblyInfoInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.AssemblyInfo.cs
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.csproj.CopyComplete
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.dll
+C:\Projects\ShopsRUs\ShopsRUs.Persistence\obj\Debug\netcoreapp3.1\ShopsRUs.Persistence.pdb

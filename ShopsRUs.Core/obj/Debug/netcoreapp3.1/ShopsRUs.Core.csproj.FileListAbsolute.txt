@@ -1,0 +1,9 @@
+C:\Projects\ShopsRUs\ShopsRUs.Core\bin\Debug\netcoreapp3.1\ShopsRUs.Core.deps.json
+C:\Projects\ShopsRUs\ShopsRUs.Core\bin\Debug\netcoreapp3.1\ShopsRUs.Core.dll
+C:\Projects\ShopsRUs\ShopsRUs.Core\bin\Debug\netcoreapp3.1\ShopsRUs.Core.pdb
+C:\Projects\ShopsRUs\ShopsRUs.Core\obj\Debug\netcoreapp3.1\ShopsRUs.Core.csprojAssemblyReference.cache
+C:\Projects\ShopsRUs\ShopsRUs.Core\obj\Debug\netcoreapp3.1\ShopsRUs.Core.AssemblyInfoInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Core\obj\Debug\netcoreapp3.1\ShopsRUs.Core.AssemblyInfo.cs
+C:\Projects\ShopsRUs\ShopsRUs.Core\obj\Debug\netcoreapp3.1\ShopsRUs.Core.csproj.CoreCompileInputs.cache
+C:\Projects\ShopsRUs\ShopsRUs.Core\obj\Debug\netcoreapp3.1\ShopsRUs.Core.dll
+C:\Projects\ShopsRUs\ShopsRUs.Core\obj\Debug\netcoreapp3.1\ShopsRUs.Core.pdb
