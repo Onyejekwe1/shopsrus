@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "31RbL8/RghLhUU23erj+s15w2wnsb3h2M8pCiRR3T3f/iEfIa2m85do8nBW+3paqwmifW2vMNdOxMOOtOgHcrA==",
+  "dgSpecHash": "Y8+UDfFYfzuwtj1TB33niSHALqCBGcGaWolM0dQPAXH8uRH43hKI8PnC0poKUhsrLsij5kpQDO1SzLunV43u9w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ShopsRUs\\ShopsRUs\\ShopsRUs.Web.csproj",
+  "projectFilePath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs\\ShopsRUs.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ifean\\.nuget\\packages\\automapper\\5.1.1\\automapper.5.1.1.nupkg.sha512",
     "C:\\Users\\ifean\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",

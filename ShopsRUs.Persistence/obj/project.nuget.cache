@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/TQ3myy33HbXQPkidL5xDOSPvh5/JoqvPy7/4G3Ziyi++kBhjiAt77iW/2nMbdJmyNjeNTAJW0CGECrlbNUKw==",
+  "dgSpecHash": "0R3lyllqMOJsvLg15b7/5g9vWQsptfsyQwwPF3UKMydTvRBW3DPQFu/zq4h935VOnJt0QPRCe15mjxkzCIcFZA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Persistence\\ShopsRUs.Persistence.csproj",
+  "projectFilePath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Persistence\\ShopsRUs.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ifean\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
     "C:\\Users\\ifean\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.3\\microsoft.entityframeworkcore.abstractions.5.0.3.nupkg.sha512",

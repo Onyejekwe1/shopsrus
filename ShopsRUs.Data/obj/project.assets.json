@@ -782,11 +782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ShopsRUs\\ShopsRUs.Data\\ShopsRUs.Data.csproj",
+      "projectUniqueName": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Data\\ShopsRUs.Data.csproj",
       "projectName": "ShopsRUs.Data",
-      "projectPath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Data\\ShopsRUs.Data.csproj",
+      "projectPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Data\\ShopsRUs.Data.csproj",
       "packagesPath": "C:\\Users\\ifean\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Data\\obj\\",
+      "outputPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -806,8 +806,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Projects\\ShopsRUs\\ShopsRUs.Core\\ShopsRUs.Core.csproj": {
-              "projectPath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Core\\ShopsRUs.Core.csproj"
+            "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Core\\ShopsRUs.Core.csproj": {
+              "projectPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Core\\ShopsRUs.Core.csproj"
             }
           }
         }

@@ -6050,11 +6050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ShopsRUs\\ShopsRUs\\ShopsRUs.Web.csproj",
+      "projectUniqueName": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs\\ShopsRUs.Web.csproj",
       "projectName": "ShopsRUs.Web",
-      "projectPath": "C:\\Projects\\ShopsRUs\\ShopsRUs\\ShopsRUs.Web.csproj",
+      "projectPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs\\ShopsRUs.Web.csproj",
       "packagesPath": "C:\\Users\\ifean\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ShopsRUs\\ShopsRUs\\obj\\",
+      "outputPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6074,14 +6074,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projects\\ShopsRUs\\ShopsRUs.Core\\ShopsRUs.Core.csproj": {
-              "projectPath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Core\\ShopsRUs.Core.csproj"
+            "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Core\\ShopsRUs.Core.csproj": {
+              "projectPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Core\\ShopsRUs.Core.csproj"
             },
-            "C:\\Projects\\ShopsRUs\\ShopsRUs.Persistence\\ShopsRUs.Persistence.csproj": {
-              "projectPath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Persistence\\ShopsRUs.Persistence.csproj"
+            "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Persistence\\ShopsRUs.Persistence.csproj": {
+              "projectPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Persistence\\ShopsRUs.Persistence.csproj"
             },
-            "C:\\Projects\\ShopsRUs\\ShopsRUs.Service\\ShopsRUs.Service.csproj": {
-              "projectPath": "C:\\Projects\\ShopsRUs\\ShopsRUs.Service\\ShopsRUs.Service.csproj"
+            "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Service\\ShopsRUs.Service.csproj": {
+              "projectPath": "C:\\Projects\\ShopsRUsFinished\\shopsrus\\ShopsRUs.Service\\ShopsRUs.Service.csproj"
             }
           }
         }
